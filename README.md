@@ -7,15 +7,17 @@ Outside of tech, I'm a dedicated learner of the Japanese language (JLPT N5 certi
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=androro&show_icons=true&theme=tokyonight" alt="Aryandana's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androro&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
-</p>
+<hr />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=androro&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=false" alt="androro's Stats" height="178" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androro&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&hide_border=false" alt="androro's Top Language" height="178" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=androro&theme=xcode&hide_border=true" alt="androro's activity graph" height="245" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=androro&theme=tokyonight" alt="Contribution Graph" />
-</p>
-
+<br />
 ### 🛠️ My Tech Stack & Tools
 
 <table>

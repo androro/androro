@@ -92,7 +92,7 @@ Feel free to reach out. I'm always open to new opportunities and collaborations.
   <a href="mailto:contactme@aaryona.my.id">
     <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[[LINK_PROFIL_LINKEDIN_ANDA]](https://id.linkedin.com/in/aryandro-maulana-237674357)">
+  <a href="https://id.linkedin.com/in/aryandro-maulana-237674357">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

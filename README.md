@@ -9,7 +9,7 @@ Outside of tech, I'm a dedicated learner of the Japanese language (JLPT N5 certi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=androro&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=false" alt="androro's Stats" height="178" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androro&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&hide_border=false" alt="androro's Top Language" height="178" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androro&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&hide_border=false" alt="androro's Top Language" height="200" />
 </div>
 <br />
 <div align="center">

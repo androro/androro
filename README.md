@@ -7,6 +7,15 @@ Outside of tech, I'm a dedicated learner of the Japanese language (JLPT N5 certi
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=androro&show_icons=true&theme=tokyonight" alt="Aryandana's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androro&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=androro&theme=tokyonight" alt="Contribution Graph" />
+</p>
+
 ### 🛠️ My Tech Stack & Tools
 
 <table>

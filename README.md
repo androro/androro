@@ -1,7 +1,7 @@
 ### Hi there, I'm Aryandro Maulana 👋
 **Vocational High School student specializing in Industrial Electronics | Web Developer & Electronics Enthusiast**
 
-I'm a Vocational High School student specializing in Industrial Electronics with a strong passion for bridging the gap between hardware and software. I actively build full-stack web applications from scratch and I'm a firm believer in using modern tools like Google Gemini to accelerate development and solve complex problems.
+I'm a Vocational High School student specializing in Industrial Electronics with a strong passion for bridging the gap between hardware and software. I actively build full-stack web applications from scratch and I'm a firm believer in using modern tools like ChatGPT & Google Gemini to accelerate development and solve complex problems.
 
 Outside of tech, I'm a dedicated learner of the Japanese language (JLPT N5 certified), which reflects my commitment to tackling new challenges.
 

@@ -1,98 +1,102 @@
-### Hi there, I'm Aryandro Maulana 👋
-**Vocational High School student specializing in Industrial Electronics | Web Developer & Electronics Enthusiast**
+# Hi there, I'm Aryandro Maulana 👋
 
-I'm a Vocational High School student specializing in Industrial Electronics with a strong passion for bridging the gap between hardware and software. I actively build full-stack web applications from scratch and I'm a firm believer in using modern tools like ChatGPT & Google Gemini to accelerate development and solve complex problems.
+**Electronics Engineering Graduate | Full-Stack Web Developer | Tech Enthusiast**
 
-Outside of tech, I'm a dedicated learner of the Japanese language (JLPT N5 certified), which reflects my commitment to tackling new challenges.
+I'm a vocational high school graduate specializing in **Industrial Electronics and IoT**, with a strong interest in connecting hardware and software through technology.
+
+I enjoy building web applications from scratch, working across frontend and backend development, and exploring practical solutions to real-world problems. My current development stack revolves around **HTML, CSS, JavaScript, PHP, and MySQL**.
+
+I'm also interested in AI-assisted development, using tools like ChatGPT, Google Gemini, and Claude to explore ideas, improve workflows, and solve technical challenges.
+
+Beyond programming, I'm actively learning Japanese and working towards the **JLPT N4 level**, having achieved **JFT-Basic A2**.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=androro&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=false" alt="androro's Stats" height="178" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androro&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&hide_border=false" alt="androro's Top Language" height="178" />
+  <img src="https://github-readme-stats.vercel.app/api?username=androro&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=false" alt="Aryandro's GitHub Stats" height="178" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androro&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&hide_border=false" alt="Aryandro's Top Languages" height="178" />
 </div>
+
 <br />
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=androro&theme=xcode&hide_border=true" alt="androro's activity graph" height="245" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=androro&theme=xcode&hide_border=true" alt="Aryandro's GitHub Activity" height="245" />
 </div>
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
-      <br>Arduino
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**Languages & Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,arduino" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
 
 ---
 
-### 🚀 My Featured Projects
+### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>KantinGo - Canteen Ordering System</h3>
-      <p>A full-stack web application to digitize the school canteen ordering process, built from scratch with PHP and MySQL. (Work in Progress)</p>
-      <a href="https://github.com/androro/kantingo">👨‍💻 Source Code</a>
-    </td>
-    <td width="50%">
-      <h3>LuminVer - Product Customizer</h3>
-      <p>An interactive product customization landing page with a smart redirect feature to WhatsApp for order finalization. Built with pure HTML, CSS, and JS.</p>
-      <a href="https://luminver.my.id">🌐 Live Demo</a>
-      &nbsp;&nbsp;
-      <a href="https://github.com/androro/luminver">👨‍💻 Source Code</a>
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|---|---|
+| **🍱 KantinGo** | A full-stack canteen ordering system designed to digitize school canteen operations. Built from scratch using PHP and MySQL. **(Work in Progress)** |
+| **🎨 LuminVer** | An interactive product customization landing page featuring dynamic product options and WhatsApp integration. Built with vanilla HTML, CSS, and JavaScript. |
+| **📝 CBT Nippon Yume** | A web-based Japanese language examination platform featuring online assessments, question management, listening exercises, and administrative tools. |
+| **🎵 Lofi Radio 'Kulkas'** | A Discord music and multipurpose bot focused on community engagement, server utilities, and entertainment features. |
+
+**Project Links:**
+- [KantinGo – Source Code](https://github.com/androro/kantingo)
+- [LuminVer – Live Demo](https://luminver.my.id) · [Source Code](https://github.com/androro/luminver)
+- [CBT Nippon Yume – Demo Preview](https://cbtnipponyume-demo.vercel.app/admin/hasil/detail/?id=16)
 
 ---
 
-### 🌱 I'm Currently Focusing On
+### 🌱 Currently Exploring
 
--   Finalizing the core features of the **KantinGo** project.
--   Exploring more about integrating AI APIs into web applications.
--   Continuously improving my Japanese language skills towards N4.
+- Building and improving full-stack web applications.
+- Developing the core features of **KantinGo**.
+- Expanding **CBT Nippon Yume** with more advanced examination features.
+- Exploring AI API integrations and AI-assisted development workflows.
+- Learning modern JavaScript ecosystems and frontend technologies.
+- Improving Japanese proficiency towards **JLPT N4**.
+
+---
+
+### 🎯 Beyond Coding
+
+- **Electronics & IoT:** Interested in hardware, automation, and embedded systems.
+- **Japanese Language:** Learning Japanese through consistent practice and immersion.
+- **Photography:** Enjoy capturing landscapes, scenery, and everyday moments.
+- **Problem Solving:** Enjoy experimenting with new technologies and turning ideas into working projects.
 
 ---
 
 ### 📫 Let's Connect!
 
-Feel free to reach out. I'm always open to new opportunities and collaborations.
+I'm always open to connecting with fellow developers, exchanging ideas, and exploring interesting collaborations.
 
 <p align="left">
   <a href="mailto:contactme@aaryona.my.id">
-    <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://id.linkedin.com/in/aryandro-maulana-237674357">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/androro">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <i>"Building things, learning continuously, and turning ideas into reality."</i>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=androro&style=flat-square&color=blue" alt="Profile Views" />
+</div>

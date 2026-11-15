@@ -11,18 +11,16 @@ I'm also interested in AI-assisted development, using tools like ChatGPT, Google
 Beyond programming, I'm actively learning Japanese and working towards the **JLPT N3 level**, having achieved **JFT-Basic A2**.
 
 ---
-
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=androro&show_icons=true&theme=ayu-mirage&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androro&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8" height="180" />
-</div>
 
-<br />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=androro&show_icons=true&theme=ayu-mirage" height="180" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=androro&theme=xcode&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=androro&theme=ayu-mirage" height="180" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=androro&layout=compact&theme=ayu-mirage" height="180" />
+
 </div>
 ---
 

@@ -12,17 +12,18 @@ Beyond programming, I'm actively learning Japanese and working towards the **JLP
 
 ---
 
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=androro&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=false" alt="Aryandro's GitHub Stats" height="178" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androro&langs_count=8&layout=compact&theme=ayu-mirage&show_icons=true&hide_border=false" alt="Aryandro's Top Languages" height="178" />
+  <img src="https://github-readme-stats.vercel.app/api?username=androro&show_icons=true&theme=ayu-mirage&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androro&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8" height="180" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=androro&theme=xcode&hide_border=true" alt="Aryandro's GitHub Activity" height="245" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=androro&theme=xcode&hide_border=true" width="100%" />
 </div>
-
 ---
 
 ### 🛠️ Tech Stack & Tools

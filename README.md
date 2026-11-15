@@ -8,7 +8,7 @@ I enjoy building web applications from scratch, working across frontend and back
 
 I'm also interested in AI-assisted development, using tools like ChatGPT, Google Gemini, and Claude to explore ideas, improve workflows, and solve technical challenges.
 
-Beyond programming, I'm actively learning Japanese and working towards the **JLPT N4 level**, having achieved **JFT-Basic A2**.
+Beyond programming, I'm actively learning Japanese and working towards the **JLPT N3 level**, having achieved **JFT-Basic A2**.
 
 ---
 
@@ -52,7 +52,7 @@ Beyond programming, I'm actively learning Japanese and working towards the **JLP
 **Project Links:**
 - [KantinGo – Source Code](https://github.com/androro/kantingo)
 - [LuminVer – Live Demo](https://luminver.my.id) · [Source Code](https://github.com/androro/luminver)
-- [CBT Nippon Yume – Demo Preview](https://cbtnipponyume-demo.vercel.app/admin/hasil/detail/?id=16)
+- [CBT Nippon Yume – Demo Preview](https://cbtnipponyume-demo.vercel.app/)
 
 ---
 
@@ -63,7 +63,7 @@ Beyond programming, I'm actively learning Japanese and working towards the **JLP
 - Expanding **CBT Nippon Yume** with more advanced examination features.
 - Exploring AI API integrations and AI-assisted development workflows.
 - Learning modern JavaScript ecosystems and frontend technologies.
-- Improving Japanese proficiency towards **JLPT N4**.
+- Improving Japanese proficiency towards **JLPT N3**.
 
 ---
 
@@ -81,7 +81,7 @@ Beyond programming, I'm actively learning Japanese and working towards the **JLP
 I'm always open to connecting with fellow developers, exchanging ideas, and exploring interesting collaborations.
 
 <p align="left">
-  <a href="mailto:contactme@aaryona.my.id">
+  <a href="mailto:contactme@aryona.xyz">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://id.linkedin.com/in/aryandro-maulana-237674357">

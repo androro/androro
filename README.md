@@ -11,6 +11,7 @@ I'm also interested in AI-assisted development, using tools like ChatGPT, Google
 Beyond programming, I'm actively learning Japanese and working towards the **JLPT N3 level**, having achieved **JFT-Basic A2**.
 
 ---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -22,6 +23,7 @@ Beyond programming, I'm actively learning Japanese and working towards the **JLP
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=androro&layout=compact&theme=ayu-mirage" height="180" />
 
 </div>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
